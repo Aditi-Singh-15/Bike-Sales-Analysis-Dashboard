@@ -34,13 +34,17 @@ The dashboard enables stakeholders to understand how factors such as **income, a
 - Removed inconsistencies and ensured uniform formatting  
 - Prepared clean data for PivotTable analysis  
 
+![Cleaned Dataset](Screenshots/Cleaned_Dataset.png)
 ---
 
 ## 📈 Analysis Performed
 - Average income comparison by gender and purchase status  
 - Bike purchase trends across age groups  
 - Purchase behavior based on commute distance  
-- Customer segmentation using demographic attributes  
+- Customer segmentation using demographic attributes
+
+  ## 📈 Pivot Table Analysis
+![Pivot Table](Screenshots/Pivot_Table.png) 
 
 ---
 
@@ -50,7 +54,12 @@ The dashboard enables stakeholders to understand how factors such as **income, a
   - Gender  
   - Marital Status  
   - Age Group  
-- Clean, executive-style dashboard layout for quick insights  
+- Clean, executive-style dashboard layout for quick insights
+
+  ## 📊 Dashboard Preview
+![Bike Sales Dashboard](Screenshots/Dashboard.png)
+
+
 
 ---
 
